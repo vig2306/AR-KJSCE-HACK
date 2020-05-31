@@ -6,3 +6,5 @@ Steps to Install the application on Android devices:
 1. Download the apk file "AR-AlphaCards.apk" on your android device.
 The apk file is attached with the github repository.
 Intsall the application on your phone.
+
+After Installation, point the camera to the images given along to have objects on your screen for different alphabets.
