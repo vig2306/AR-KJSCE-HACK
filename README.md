@@ -8,3 +8,20 @@ The apk file is attached with the github repository.
 Intsall the application on your phone.
 
 After Installation, point the camera to the images given along to have objects on your screen for different alphabets.
+
+
+##### Demo
+
+<div align = "center">
+ 
+<img src = "pic0.jpeg" width=500px height=500px/>
+
+<img src = "pic1.jpeg" width=500px height=500px/>
+
+<img src = "pic2.jpeg" width=500px height=500px/>
+
+<img src = "pic3.jpeg" width=500px height=500px/>
+
+<img src = "pic4.jpeg" width=500px height=500px/>
+
+</div>
